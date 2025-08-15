@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_DIR="$HOME/essencium"
+REPO_DIR="$HOME/Essencium"
 CONFIG_DIR="$HOME/.config"
 
 link_cfg () {
